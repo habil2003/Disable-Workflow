@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Habil
+      - name: Habil Tamang
         run: echo "Disble WOrkflow"
