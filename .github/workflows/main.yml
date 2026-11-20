@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Habil Tamang
-        run: echo "Disble WOrkflow"
+        run: echo "Disble WOrkflow Tutoril"
